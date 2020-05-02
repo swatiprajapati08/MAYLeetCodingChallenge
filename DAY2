@@ -1,0 +1,26 @@
+//Jewels and Stones
+
+
+
+class Solution {
+    public int numJewelsInStones(String J, String S) {
+        
+        char jchar[]=J.toCharArray();
+        char schar[]=S.toCharArray();
+        int count=0;
+        Arrays.sort(jchar);
+        Arrays.sort(schar);
+        for(char c:schar)
+        {
+            for(char ch:jchar)
+            {
+                if(ch==c)
+                {
+                    count++;
+                    break;
+                }
+            }
+        }
+        return count;
+    }
+}
