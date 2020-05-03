@@ -5,3 +5,6 @@ May LeetCoding Challenge is a challenge for programmers by LeetCode Website, we 
 Day 1 :  First Bad Version
 
 Day 2 :  Jewels and Stones
+
+Day 3 :  Ransom Note
+
