@@ -1,0 +1,22 @@
+//Number Complement
+
+
+class Solution {
+    public int findComplement(int num) {
+        
+        int idx = 0;
+        for(int i = 31; i >= 0; i--){
+            if(((num >> i) & 1) == 1){
+                idx = i;
+                break;
+            }
+        }
+        
+        // for [idx, 31], reverse each bit
+        for(int i = idx; i >= 0; i--){
+            num ^=  (1 << i);
+        }
+        
+        return num;
+    }
+}
