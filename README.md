@@ -21,4 +21,7 @@ Day 7 :  Cousins in Binary Tree
 
 Day 8 : Check If It Is a Straight Line
 
+Day 9 : Valid Perfect Square
+ 
+
 
