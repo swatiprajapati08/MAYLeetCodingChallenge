@@ -10,9 +10,9 @@
 
 ![leetcode](https://res.cloudinary.com/practicaldev/image/fetch/s--pkV_ojKD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h4ear4i3g4q7r04utgpm.png)
 
-
-<------------------------------------------------------------- WEEK 1------------------------------------------------------------->
-
+***
+## <------------------------------------ WEEK 1-------------------------------------->
+***
 Day 1 :  First Bad Version
 
 Day 2 :  Jewels and Stones
@@ -27,7 +27,9 @@ Day 6 :   Majority Element
 
 Day 7 :  Cousins in Binary Tree
 
-<------------------------------------------------------------- WEEK 2------------------------------------------------------------->
+***
+## <------------------------------------ WEEK 2-------------------------------------->
+***
 
 Day 8 : Check If It Is a Straight Line
 
@@ -43,7 +45,9 @@ Day 13: Remove K Digits
 
 Day 14: Implement Trie (Prefix Tree)
 
-<------------------------------------------------------------- WEEK 3 ------------------------------------------------------------->
+***
+## <------------------------------------ WEEK 3-------------------------------------->
+***
 
 Day 15: Maximum Sum Circular Subarray
 
