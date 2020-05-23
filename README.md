@@ -61,6 +61,15 @@ Day 19:Online Stock Span
 
 Day 20:Kth Smallest Element in a BST
 
+Day 21:Count Square Submatrices with All Ones
+
+***
+## <------------------------------------ WEEK 4-------------------------------------->
+***
+
+Day 22: Sort Characters By Frequency
+
+
 
 
 
