@@ -71,6 +71,9 @@ Day 22: Sort Characters By Frequency
 
 Day 23: Interval List Intersections
 
+Day 24: Construct Binary Search Tree from Preorder Traversal
+
+
 
 
 
