@@ -81,6 +81,14 @@ Day 27:Possible Bipartition
 
 Day 28:Counting Bits
 
+***
+## <------------------------------------ WEEK 5-------------------------------------->
+***
+
+Day 29:Course Schedule
+
+Day 30:K Closest Points to Origin
+
 
 
 
