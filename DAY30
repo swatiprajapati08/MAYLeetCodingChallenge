@@ -1,0 +1,21 @@
+//K Closest Points to Origin
+
+
+class Solution {
+    public int[][] kClosest(int[][] points, int K) {
+           PriorityQueue<int[]> heap = new PriorityQueue<int[]>((a, b) -> a[0] - b[0]);
+        for (int i = 0; i < points.length; i++) {
+            heap.add(new int[]{points[i][0] * points[i][0] + points[i][1] * points[i][1], points[i][0], points[i][1]});
+        }
+        int[][] result = new int[K][2];
+        int i = 0;
+        while (i < K) {
+            int[] item = heap.poll();
+            result[i][0] = item[1];
+            result[i][1] = item[2];
+            i++;
+        }
+        return result;
+    }
+}
+   
